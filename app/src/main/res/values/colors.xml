@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#5c39258a</color>
+    <color name="colorPrimaryDark">#f03b50ba</color>
+    <color name="colorAccent">#30623d</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="accent_material_dark_1">#3b7759</color>
+    <color name="primary_material_dark" tools:ignore="PrivateResource">#212121</color>
+    <color name="accent_material_dark" tools:ignore="PrivateResource">#ff8c40</color>
+    <color name="colorBackground">#fafafa</color>
+    <color name="primary_material_light" tools:ignore="PrivateResource">#2196f3</color>
+    <color name="background_material_light" tools:ignore="PrivateResource">#fafafa</color>
+    <color name="accent_material_light" tools:ignore="PrivateResource">#00d736</color>
+
+    <color name="button_pressed">#FF363636</color>
+    <color name="button_focused">#607d8b</color>
+    <color name="button_default">#212121</color>
+    <color name="holo_orange_light">#990000</color>
+    <color name="holo_blue_dark">#131d4f</color>
+    <color name="holo_green_light">#feaa0c</color>
+
+    <color name="colorPrimaryBis">#3F51B5</color>
+    <color name="colorPrimaryDarkBis">#303F9F</color>
+    <color name="colorAccentBis">#FF4081</color>
+    <color name="year">#607d8b</color>
+    <color name="title">#222222</color>
+    <color name="holo_red_dark">#fc4f49</color>
+    <color name="cocktail_background">#f49938</color>
+    <color name="cocktail_recipe">#FFF5A44E</color>
+    <color name="brown">#432b0a</color>
+    <color name="dark_grey">#4d4d4d</color>
+    <color name="holo_purple">#905bc9</color>
+
+    <color name="noGrey">#FFBDBDBD</color>
+</resources>

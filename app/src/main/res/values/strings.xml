@@ -1,0 +1,573 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    //SPEAKING WITH ME
+    <string name="ruleSuggest">Suggest a new rule</string>
+    <string name="minigameSuggest">Suggest a minigame</string>
+    <string name="feedbackSuggest">Submit feedback or a message</string>
+    <string name="quoteSuggest">Suggest a quote</string>
+    <string name="cocktailSuggest">Suggest a new cocktail</string>
+    <string name="drinkSuggest">Suggest a new drink</string>
+    <string name="addPlayer">Add a player</string>
+    <string name="removePlayer">Remove a player</string>
+    <string name="seePlayers">See current list of players</string>
+    <string name="addOrRemove">Add/Remove players</string>
+    <string name="dare">Who dares to leave!</string>
+    <string name="leftGame">left the game! Not cool 😡</string>
+    <string name="cantRemove">You can\'t remove players if there are none…</string>
+    <string name="cantSee">You can\'t see the list of players if there are none…</string>
+    <string name="playerNameHint">Player\'s name</string>
+    <string name="addButton">Add</string>
+    <string name="playerJoined">has joined the game!</string>
+    <string name="cantJoin">Please enter the name of the new player</string>
+
+    //LANGUAGES
+    <string name="languageChoice">Choose your language</string>
+    <string name="engLang" translatable="false">🇺🇸 English</string>
+    <string name="frLang" translatable="false">🇫🇷 Français</string>
+    <string name="resetWarning">This will start a new deck.\nCurrent players will however be kept.</string>
+    <string name="resetWarningNoPlayers">This will start a new deck.</string>
+
+    //QUOTES
+    <string name="yeeha">YEEHA</string>
+    <string name="mark">Oh hi Mark</string>
+    <string name="hello">Hello there</string>
+    <string name="nothing">Nothing to see here</string>
+    <string name="zeus">ZEUS</string>
+    <string name="just">Just do it</string>
+    <string name="balls">When in doubt, slap your balls</string>
+    <string name="submitQuote1">Press here to submit your quote</string>
+    <string name="puking">Puking is restarting</string>
+    <string name="shoe">It\'s a shoe</string>
+    <string name="sunrise">No sleeping before midnight</string>
+    <string name="sshhh" translatable="false">🤫</string>
+    <string name="fun">The only limit to fun is yours</string>
+    <string name="nuggets">I\'ll see you in 23 nuggets</string>
+    <string name="disclaimer">DISCLAIMER: These quotes are not to be taken seriously</string>
+    <string name="chill">CHIIIIILL</string>
+    <string name="shark" tools:ignore="Typos">Baby Shark doo doo doo doo doo doo</string>
+    <string name="sugar">Eating sugar?</string>
+    <string name="submitQuote2">Add your quote by pressing here</string>
+    <string name="pimpim">Here, it\'s PIM-PIM</string>
+    <string name="thirtySix" translatable="false">36</string>
+    <string name="fortyTwo" translatable="false">42</string>
+    <string name="order">Execute Order 15–32</string>
+    <string name="swipe">Try swiping the screen</string>
+    <string name="much">Too much is always better than not enough</string>
+    <string name="what">What??</string>
+    <string name="squirrel">6 Squirrel, a sixth of squirrel, 3 Squirrel</string>
+    <string name="shots">For extra carnage turn sips into shots</string>
+    <string name="fun2">This is where the fun begins</string>
+    <string name="mixture">Mixture is always healthy</string>
+    <string name="submitQuote3">Want to see one of your quotes? Press here 😎</string>
+    <string name="pipe">Pipe down Fresh</string>
+    <string name="aBitGood">This is a bit good</string>
+    <string name="better">But this app is a bit better</string>
+
+
+    //Home Screen
+    <string name="app_name_for_game" translatable="false">Boozely</string>
+    <string name="boozely_button">The Boozeled Game!</string>
+    <string name="spec_drinks_button">Cocktail Menu</string>
+    <string name="drink_tips">Tips for Drinks!</string>
+    <string name="daily_quote">A random quote will appear here!</string>
+
+    <string name="waiverTitleHome">Warning</string>
+    <string name="waiverMessageHome">By continuing you confirm that:\n\nYou meet every legal requirement regarding the purchase, possession and consumption of alcohol.\n\nYou understand that any quotes displaying on the homescreen are there for comic purposes.\n\nYou are responsible for whatever happens while using Boozely.\n\nYou are here to have fun.\n\nThis waiver is too long…\n\nWkrjNgvwenVGovwncwOkvn</string>
+    <string name="waiverYesHome">Yep, totally!</string>
+    <string name="waiverNoHome">Absolutely not!</string>
+
+    //SPECIALS
+    <string name="happyHallo">Merry Christmas!</string>
+    <string name="uselessDescription" translatable="false">something useless</string>
+    <string name="happyNewYear">Happy New Year !</string>
+    <string name="resolutions">Don\'t forget your new year\'s resolutions</string>
+
+    //HALLOWEEN COCKTAILS
+    <string name="spookyIngredients">Tequila, Tangerine Lemonade, Grenadine, Black Sugar</string>
+    <string name="spookyRecipe">For 2L:\n- Pour 300mL of Tequila\n- Add 600mL of Tangerine Lemonade\n- Complete to the 1L mark with Grenadine\n- Top up with ice, mix\n\nSprinkle Black Sugar on the glasses\' rim</string>
+    <string name="darkIngredients">Gin, Pomegranate Juice, Simple Syrup</string>
+    <string name="darkRecipe">For 2L (you will need a shaker):\n- Pour 600mL of Gin\n- Add 300mL of Pomegranate Juice\n- Complete to the 1L mark with the Syrup\n- Fill the rest with ice, shake for at least 30s\n\nAdd cubes of dry ice for a better effect</string>
+    <string name="maskIngredients">Vodka, Chartreuse, Black Currant Juice</string>
+    <string name="maskRecipe">For 2L:\n- Pour 375mL of Vodka\n- Add 125mL of Chartreuse\n- Complete with Black Currant Juice and ice, mix</string>
+    <string name="vBloodIngredients">Vodka, Grenadine, Lemonade</string>
+    <string name="vBloodRecipe">For 2L:\n- Put 8 shots of vodka (25mL the shot)\n- Add 150mL of Grenadine\n- Pour Lemonade up until the 1L mark\n- Complete with ice, mix</string>
+    <string name="boneyardIngredients">Gin, White Rum, Tequila (Silver), Vodka, Blue Curacao, Sour Mix, Sparkling Water</string>
+    <string name="boneyardRecipe">For 2L (you will need a shaker):\n- Fill the shaker with ice\n- Add 1 part of each alcohol and extra shot of Blue Curacao\n-Add 2 parts of Sour Mix\n-Shake well\n\nAdd the Sparkling Water directly in the glasses to your liking</string>
+    <string name="ghouleIngredients">Gin, Ginger Ale, Cranberry Bitters, Grenadine</string>
+    <string name="ghouleRecipe">For 2L:\n- Pour 300mL of Gin\n- Add 600mL of Ginger Ale\n- Put 8 dashes of Cranberry Bitter\n- Complete with ice, mix\n\nPour a shot of Grenadine inside the edge of the glasses after pouring</string>
+    <string name="graveyardIngredients">Brandy, Root Beer Schnapps, Pineapple Juice</string>
+    <string name="graveyardRecipe">For 2L (you will need a shaker):\n- Fill the shaker with ice\n- Put 375mL of Brandy\n- Add 275mL of Root Beer Schnapps\n- Complete with Pineapple Juice\n- Shake well</string>
+
+    // HALLOWEEN CARDS
+    <string name="halloweenCardName">Special Halloween 🎃</string>
+    <string name="halloweenCardRule">Trick or Treat! 🎃\nDo a dare or down the drink of the player on your right!</string>
+    <string name="halloweenCardExplain">The other players in the room can give you a challenging dare.\nYou can either choose to do the dare or down the drink of the player on your right!\n\n\nYou can always down the drink of the player on your right before doing the dare… \nYou know if you need more courage? 👻\n</string>
+
+    // Special Halloween
+    <string name="content" translatable="false">pumpkin</string>
+
+    // CHRISTMAS CARDS
+    <string name="santaCard">Santa\'s Card</string>
+    <string name="grinchCard">The Grinch\'s Card</string>
+    <string name="naughtyGift">The Grinch\'s Gift</string>
+    <string name="goodGift">Santa\'s Gift</string>
+
+    <string name="santaCardSimpleRules">You are now Santa Clause!\nGive out 1 sip to anyone at each turn!</string>
+    <string name="grinchCardSimpleRules">You are the new Grinch!\nAt anytime you can swap two players\' glasses!</string>
+    <string name="goodGiftSimpleRules">You have received a good gift!\nYou can reduce the number of sips you take by 1!</string>
+    <string name="naughtyGiftSimpleRules">Here\'s a bad gift!\nIncrease the numbers of sips you take by 1!</string>
+
+    <string name="santaCardExplain">Until someone else draws this card, you can give 1 sip to whoever you want each time a player picks a new card!</string>
+    <string name="grinchCardExplain">Until someone else draws this card, you can swap the glasses of two players at any moment as much as you want!</string>
+    <string name="goodGiftExplain">When you have to drink, you can reduce the amount of sips you are supposed to take by 1!</string>
+    <string name="naughtyGiftExplain">When you drink, you have to increase the amount of sips you are supposed to take by 1!</string>
+
+    <string name="santaClauseNone">Current Santa Clause: none</string>
+    <string name="grinchNone">Current Grinch: none</string>
+    <string name="goodGiftedNone">Player who received the good gift:\nnone</string>
+    <string name="badGiftedNone">Player who received the bad gift:\nnone</string>
+    <string name="santaClause">Current Santa Clause: </string>
+    <string name="grinch">Current Grinch: </string>
+    <string name="goodGifted">Player who received the good gift:\n</string>
+    <string name="badGifted">Player who received the bad gift:\n</string>
+
+    //Cocktail Menu
+    <string name="cocktailLover">Cocktails</string>
+    <string name="cocktail_prompt">Press here to submit a Cocktail!</string>
+    <string name="sort_prompt">Sort By: </string>
+    <string name="defSort">Default</string>
+    <string name="naSort">Name</string>
+    <string name="alLevSort">Alcohol Level (least to most)</string>
+    <string name="nSpiritSort">Number of Spirits Needed</string>
+    <string name="newCock">*New*</string>
+
+    //COCKTAILS INGREDIENTS
+    <string name="vinscarS">Alcohols.</string>
+    <string name="manosS">Vodka, Passion Fruit Syrup, Lime, Mint</string>
+    <string name="magascarS">Vanilla Vodka, Candies</string>
+    <string name="ginberryS">Pink Gin, Black Raspberry Liqueur, Lemonade</string>
+    <string name="tuityS">Peach Schnapps, Blue Curacao, Orange Juice, Lemonade</string>
+    <string name="islandS">Orange Liqueur Triple Sec, Vodka, Tequila, Rum, Gin, Gomme Syrup, Lemon Juice, Cola</string>
+    <string name="martiniS">Vanilla Vodka, Mango, Passion Fruit &amp; Orange Juices, Lemonade</string>
+    <string name="beachS">Vodka, Peach Schnapps, Cranberry &amp; Orange Juices</string>
+    <string name="punchS">White Rum, Coconut White Rum, Mango, Passion Fruit &amp; Pineapple Juice</string>
+    <string name="rainS">Vodka, Blue Curacao, Grenadine, Lemonade</string>
+    <string name="wooS">Vodka, Peach Schnapps, Cranberry Juice</string>
+    <string name="lagoonS">Vodka, Blue Curacao, Lime Cordial, Lemonade</string>
+    <string name="godfatherS">Scotch Whiskey, Amaretto, Cola</string>
+    <string name="mojitoS">White Rum, Sugar, Lime &amp; Passion Fruit Juices, Soda Water, Mint, (Champagne)</string>
+    <string name="coladaS">White Rum, Coconut White Rum, Sugar, Coconut Milk, Pineapple Juice</string>
+    <string name="margaritaS">Tequila, Orange Liqueur Triple Sec, Lime Juice (&amp; salt on the side)</string>
+    <string name="daiquiriS">White Rum, Lime Juice, Sugar\nYou may also add any flavoured liqueurs or syrups</string>
+    <string name="maiS">White Rum, Dark Rum, Orange Liqueur, Lime, Pineapple &amp; Orange Juices, Grenadine</string>
+    <string name="caiprinhaS">Cachaça, Lime, Sugar (you can add any fruit juices: recommended Apple or Pineapple)</string>
+    <string name="caipiroskaS">Vodka, Lime, Sugar (you can add any fruit juices: recommended Apple or Pineapple)</string>
+    <string name="cosmosS">Vodka, Orange Liqueur Triple Sec, Cranberry Juice</string>
+    <string name="moscowS">Vodka, Ginger Beer, Lime Juice</string>
+    <string name="bloodyS">Vodka, Tomato Juice, Lemon Juice, Hot Sauce, Worcestershire Sauce, Salt, Black Pepper</string>
+    <string name="zombieS">White Rum, Dark Rum, Spiced Rum, Gold Rum, Absinthe, Bitter Liqueurs, Pineapple Juice, Passion Fruit Juice, Orange Juice, Lime, Grenadine</string>
+
+    //COCKTAILS RECIPES
+    <string name="vinscarR">Get every alcohol you can find and mix them together… Good luck!</string>
+    <string name="manosR">- Take a 1L bottle of Vodka, pour 3 shots (25ml each)\n- Add 50mL of Passion Fruit Syrup in the bottle\n- Add pieces of Lime and Mint Leaves\n- Mix and keep refrigerated</string>
+    <string name="magascarR">- Take  a 1L bottle of Vodka, pour 2 shots (25mL each)\n- Add 6 fruit flavoured candies who\'s name rhyme with Zkittles in the bottle\n- Wait until the candies turn white, distill several times\n- Mix and keep refrigerated</string>
+    <string name="ginberryR">In a 2L recipient\n- Pour 2 shots of Pink Gin (25mL each)\n- Pour 2 shots of Raspberry Liqueur (25mL each)\n- Add Lemonade until the 1L mark is reached\n- Mix and add ice until the full recipient is full</string>
+    <string name="tuityR">In a 2L recipient\n- Pour 2 shots of Peach Schnapps (25mL each)\n- Pour 2 shots of Blue Curacao (25mL each)\n- Add Orange Juice 2/3rd\'s of the way to the 1L mark\n- Add Lemonade to the 1L mark\n- Mix and add ice until the top</string>
+    <string name="islandR">In a 2L recipient\n- Add 1 shot of each alcohol (25mL the shot)\n- Pour a shot of Gomme Syrup\n- Fill until the 2/3rd\'s of 1L mark with Cola\n- Add Lemon Juice up to the 1L mark\n- Fill the rest with ice</string>
+    <string name="martiniR">In a 2L recipient\n- Pour 4 shots of Vanilla Vodka (25mL each)\n- Add 150mL of Lemonade\n- Add 250mL of each Mango, Passion Fruit &amp; Orange Juice\n- Mix and fill with ice</string>
+    <string name="beachR">In a 2L recipient\n- Pour 2 shots of each Vodka and Peach Schnapps (25mL the shot)\n- Fill halfway to the 1L mark with Orange Juice\n- Add Cranberry Juice until the 1L mark\n- Mix and complete with ice</string>
+    <string name="punchR">In a 2L recipient\n- Add 2 shots of each White Rum and Coconut Liqueur (25mL the shot)\n- Pour 300mL of each juices\n- Mix and fill with ice</string>
+    <string name="rainR">In a 2L recipient \n- Pour 2 shots of both Vodka and Blue Curacao (25mL the shot) \n- Add 100mL of Grenadine \n- Complete until the 1L mark with Lemonade \n- Mix and fill with ice</string>
+    <string name="wooR">In a 2L recipient \n- Add 50mL of both Vodka and Blue Curacao \n- Pour Cranberry Juice until the 1L mark \n- Mix and complete with ice</string>
+    <string name="lagoonR">In a 2L recipient \n- Pour 50mL of Vodka and 50mL of Blue Curacao \n- Add a shot of Lime Cordial \n- Complete with Lemonade and ice, stir</string>
+    <string name="godfatherR">In a 2L recipient \n- Pour 2 shots of Whiskey (25mL each) \n- Add 2 shots of Amaretto (25mL each) \n- Fill with cola and ice, mix</string>
+    <string name="mojitoR">In a 2L recipient \n- Pour 100mL of Rum \n- Add 1 spoon of Sugar \n- Add 700mL of Lime and Passion Fruit Juices until the 1L mark \n- Pour 200mL of Soda Water, stir \n- Complete with ice, pieces of Lime and Mint Leaves, mix  \nAdd Champagne for a deluxe version!</string>
+    <string name="coladaR">In a 2L recipient\n- Pour 75mL of White Rum\n- Add a shot of Coconut Liqueur (25mL)\n- Add a spoon of Sugar\n- Complete with ice, Coconut Milk and Pineapple Juice\n- Shake</string>
+    <string name="margaritaR">In a 2L recipient\n- Pour 2 shots of each Tequila and Orange Liqueur\- Fill the 1L mark with Lime Juice\n- Complete with ice, mix\n- Sparkle Salt on the glasses\' rim</string>
+    <string name="daiquiriR">In a 2L recipient\n- Pour 4 shots of White Rum (25mL each)\n- Add a spoon of Sugar\n(- Add 2 shots of Liqueur)\n- Fill until the 1L mark with Lime Juice\n- Complete with ice, mix</string>
+    <string name="maiR">In a 2L recipient\n- Pour 3 shots of White Rum (75mL)\n- Add 1 shot of Dark Rum (25mL)\n- Add 2 shots of Orange Liqueur (50mL)\n- Add 75mL of Grenadine\n- Pour Lime, Pineapple and Orange Juices until the 1L mark\n- Complete with ice, mix</string>
+    <string name="caiprinhaR">In a 1.5L recipient (best with a shaker):\n- Pour 700mL of Cachaça\n- Add Lime and Sugar to your liking (recommended 5 Limes and 12 tea spoons of Sugar)\n- Complete with ice, mix and crush</string>
+    <string name="caipiroskaR">In a 1.5L recipient (best with a shaker):\n- Put 700mL of Vodka\n- Add Lime and Sugar to your liking (recommended 5 Limes and 12 tea spoons of Sugar\n- Compete with ice, mix and crush</string>
+    <string name="cosmosR">In a 2L recipient (best with a shaker):\n- Pour 3 shots of Vodka and 1 shots of Cointreau (25mL the shot)\n- Complete with Cranberry Juice up to the 1L mark\n- Fill up with ice, mix and crush</string>
+    <string name="moscowR">In a 2L recipe:\n- Pour 4 shots of Vodka (100mL in total)\n- Squeeze 25mL worth of Lime Juice\n- Add Ginger Beer to the 1L mark\n- Complete with ice, mix</string>
+    <string name="bloodyR">For 2L (you will need a shaker):\n- Put 4 shots of Vodka (100mL in total)\n- Pour 100mL of Lemon Juice\n- Add 8 dashes of Worcestershire Sauce, a pinch of salt and pepper\n- Fill up to the 1L mark with Tomato Juice\n- Complete with ice, mix in the shaker\n- Top up with ice if it\'s not full\n- Add the Hot Sauce in the glasses (recommended for 2L is 8 dashes)</string>
+    <string name="zombieR">For 2L (best with a shaker):\n- Pour a shot of each alcohol (25mL the shot)\n- Add the juices just below the 1L mark\n- Top up with Grenadine\n- Fill the recipient with ice, mix and shake well</string>
+
+    //Tips And Drinks Menu
+    <string name="TipsTitle">Tips for Drinks!</string>
+    <string name="drinkPrompt">Press here to submit a drink\nor see my suggestions below!</string>
+    <string name="myChoice">What can I mix with my</string>
+    <string-array name="SorM" translatable="true">
+        <item>Alcohol?</item>
+        <item>Soft drink?</item>
+    </string-array>
+    <string name="softSort">soft?</string>
+    <string name="alcoholSort">alcohol?</string>
+    <string name="whatMix">Mix it with one of the following:</string>
+
+    //Open screen
+    <string name="app_name" translatable="false">Boozely</string>
+    <string name="welcomeMessage">Hi, I\'m the Drinkler!\nI am in charge of you now…</string>
+    <string name="quickSummary">Boozely is a fun drinking card game best played at 8.\nVery much like the King\'s Cup or the Ring of Fire, each card will dictate your fate.\nTap the screen or swipe left and try to keep your face straight. 😜</string>
+    <string name="quickAdvice">Please don\'t drink responsibly and make sure that at least a third of the players can\'t make it back on their own.</string>
+    <string name="playButton">   Start Boozely!  </string>
+
+    <string name="waiverTitleOpenScreen">Warning</string>
+    <string name="waiverMessageOpenScreen">Please drink responsibly.\n\nDo you agree that by continuing you take full responsibility, regardless of what is said on the next screens, for any consequences that may result from the use of Boozely?</string>
+    <string name="sighYeahOpenScreen">*sigh*… Yeah</string>
+    <string name="umNoOpenScreen">Umm… No.</string>
+
+    //Player Name Screen
+    <string name="getBooze">Get Boozeled!</string>
+    <string name="describe_icon">The Boozely icon</string>
+    <string name="player_name">The name of a player 🎉 </string>
+    <string name="hint_player">Player 1</string>
+
+    //PLAYER
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="player3">Player 3</string>
+    <string name="playerPlain">Player</string>
+
+    //PLAYERS
+    <string name="playerString">Player</string>
+
+    <string name="toastDiffPlayer">Please enter different player names</string>
+    <string name="toastOptionalPlayer">Entering players is optional</string>
+    <string name="toastPlayerExists">is already here</string>
+
+    //CARD SCREEN
+    <string name="cardName">PRESS THE CARD TO START\nPRESS HERE OR THE \'?\' FOR EXPLANATIONS</string>
+    <string name="cardImage" translatable="false">cardImage</string>
+    <string name="title_activity_game_card_games" translatable="false">GameCardGames</string>
+    <string name="jokerIcon">The joker icon</string>
+    <string name="helpText">Press the button that will appear here for explanations</string>
+    <string name="movableCard" translatable="false">Card image used to add the animations</string>
+    <string name="noCards">No more cards left!!</string>
+    <string name="replay">REPLAY! 😃</string>
+    <string name="quit">CLOSE GAME 😡</string>
+    <string name="the_drinkler" />
+    <string name="comic">WHAT WILL YOU DO!!! 😱 </string>
+    <string name="yay" translatable="false">😃</string>
+    <string name="cry" translatable="false">😡</string>
+    <string name="cockFloat" translatable="false">🍸</string>
+    <string name="drinkFloat" translatable="false">🥃</string>
+    <string name="left" translatable="false">54</string>
+    <string name="noPreviousCard">There are no previous cards…</string>
+
+    //Card explain
+    <string name="nullCardExplanationsTitle">Explanations</string>
+    <string name="nullCardExplanations">Press the back of the card or swipe left to start the game.\n\nIF YOU DON\'T UNDERSTAND A RULE:\nA little orange \'?\' button will be at the top of each card.\nPress that button or the text under the card to know what to do precisely.\n\nGETTING THE NEXT OR PREVIOUS CARD:\nSwipe left or tap the card to pick another random one.\nSwipe right or long press a card to go back to the previous one.\n\nADDING OR REMOVING PLAYERS IN-GAME:\nAdd or remove players in-game by pressing the Boozely icon.\n\nSEEING WHICH ROLE IS HELP BY WHICH PLAYER:\nPress the white and black \'i\' info button on the right.\n(Only visible if players were added)\n\nSEEING THE OTHER MENUS WITHOUT LEAVING THE GAME:\nSee the Cocktail Menu or the Tips for Drinks Menu by pressing the according icons under the info button or under the Boozely icon.\n\nSENDING FEEDBACK OR SUGGESTIONS:\nSend mails and messages directly to me by pressing the mail icon!</string>
+
+    //Roles
+    <string name="rolesTitle">Current Roles</string>
+    <string name="ruleMakersNone">Rule maker(s): none</string>
+    <string name="ruleMakersRoles">Rule maker(s): </string>
+    <string name="kingOfThumbsNone">King of thumbs: none</string>
+    <string name="kingOfThumbsRole">King of thumbs: </string>
+    <string name="queenOfBitchesNone">Queen of bitches: none</string>
+    <string name="queenOfBitchesRole">Queen of bitches: </string>
+
+    //Snackbars
+    <string name="snackbarHoe">You\'re a hoe!\nSigned: The Drinkler</string>
+    <string name="snackbarAgent">F.B.I Agent: 😮 That must hurt…</string>
+    <string name="snackBarWelcome">You\'re welcome! 😁 \nSigned: The Drinkler</string>
+    <string name="addedWasDismissed">Players added or removed in-game were dismissed</string>
+
+    //Send a message
+    <string name="sendTheMessageTitle">You want to talk with me?!</string>
+
+    //Submit Rule
+    <string name="hintRuleName">Enter the name of your rule here</string>
+    <string name="hintRuleExplain">Explain your rule here</string>
+    <string name="ruleDialogTitle">Enter your rule!</string>
+    <string name="emailRuleSubject">New Rule!</string>
+    <string name="toastRuleNoName">Please enter a name for your rule</string>
+    <string name="toastRuleExplainWithName">Please explain the rules of</string>
+    <string name="toastRuleExplainNoName">Please explain your rule</string>
+    <string name="bodyNameRule">Please consider this rule.\n\nName:\n</string>
+    <string name="bodyExplainRule">\n\nRules:\n</string>
+
+    //Submit game
+    <string name="hintGameName">Enter your minigame\'s name here</string>
+    <string name="hintGameRules">Explain the rules here</string>
+    <string name="gameDialogTitle">Enter your minigame!</string>
+    <string name="emailGameSubject">New Minigame!</string>
+    <string name="toastGameNoName">Please name your minigame</string>
+    <string name="toastGameRuleWithName">Please explain the rules of</string>
+    <string name="toastGameRuleNoName">Please explain your minigame</string>
+    <string name="bodyGameName">Please consider this minigame.\n\nName:\n</string>
+    <string name="bodyGameRule">\n\nRules:\n</string>
+
+    //Submit feedback
+    <string name="messageHint">Enter your feedback/message</string>
+    <string name="dialogFeedbackTitle">What can be made better?</string>
+    <string name="emailSubjectFeedback">Feedback</string>
+    <string name="toastFeedBack">Please actually enter something</string>
+
+    //Submit quote
+    <string name="quoteEmailSubject">Quote To Add</string>
+    <string name="quoteDialogTitle">Submit your quote!</string>
+    <string name="quoteInputHint">Enter your quote here</string>
+    <string name="quoteToast">Please enter a quote</string>
+    <string name="quoteBody">Please consider this quote:</string>
+
+    //Submit cocktail
+    <string name="cocktailHintName">Enter your cocktail\'s name here</string>
+    <string name="cocktailHintIngredients">Enter the ingredients here</string>
+    <string name="cocktailHintRecipe">Enter the full recipe here</string>
+    <string name="cocktailDialogTitle">Submit your cocktail!</string>
+    <string name="cocktailEmailSubject">Recommended Cocktail!</string>
+    <string name="cocktailToastNoName">Please name your cocktail</string>
+    <string name="cocktailToastIngredientsWithName">Please enter the ingredients for</string>
+    <string name="cocktailToastIngredientsNoName">Please enter the ingredients of your cocktail</string>
+    <string name="cocktailToastRecipeWithName">Please enter the recipe for</string>
+    <string name="cocktailToastRecipeNoName">Please enter the recipe for your cocktail</string>
+    <string name="cocktailBody">Please consider this cocktail.\n\nName:</string>
+    <string name="cocktailIngredients">Ingredients:</string>
+    <string name="cocktailRecipe">Recipe:</string>
+
+    // Submit drink
+    <string name="drinkHintSpirit">Enter the alcohol here</string>
+    <string name="drinkHintMixer">Enter the mixer(s) here</string>
+    <string name="drinkDialogTitle">Submit your drink!</string>
+    <string name="drinkEmailSubject">My Recommended Drink!</string>
+    <string name="drinkToastNoSpirit">Please enter an alcohol</string>
+    <string name="drinkToastNoMixers">Please enter the mixer(s)</string>
+    <string name="drinkBody">Please consider this drink.\n\nAlcohol:</string>
+    <string name="drinkMixer">Mixer(s):</string>
+
+
+    //FULL APP
+    <string name="sendString">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+
+    //LEAVING GAME
+    <string name="leavingTitle">You are leaving?!</string>
+    <string name="leavingDialogMessage">Are you sure you want to leave this fabulous BOOZELY game?</string>
+    <string name="yesDuh">Duh…Yes</string>
+    <string name="hellNo">Oh hell no!!</string>
+
+    //CARD DECK CARDS
+    <string name="clubs2">2 of Clubs</string>
+    <string name="clubs3">3 of Clubs</string>
+    <string name="clubs4">4 of Clubs</string>
+    <string name="clubs5">5 of Clubs</string>
+    <string name="clubs6">6 of Clubs</string>
+    <string name="clubs7">7 of Clubs</string>
+    <string name="clubs8">8 of Clubs</string>
+    <string name="clubs9">9 of Clubs</string>
+    <string name="clubs10">10 of Clubs</string>
+    <string name="clubsJack">Jack of Clubs</string>
+    <string name="clubsQueen">Queen of Clubs</string>
+    <string name="clubsKing">King of Clubs</string>
+    <string name="clubsAce">Ace of Clubs</string>
+
+    <string name="diamonds2">2 of Diamonds</string>
+    <string name="diamonds3">3 of Diamonds</string>
+    <string name="diamonds4">4 of Diamonds</string>
+    <string name="diamonds5">5 of Diamonds</string>
+    <string name="diamonds6">6 of Diamonds</string>
+    <string name="diamonds7">7 of Diamonds</string>
+    <string name="diamonds8">8 of Diamonds</string>
+    <string name="diamonds9">9 of Diamonds</string>
+    <string name="diamonds10">10 of Diamonds</string>
+    <string name="diamondsJack">Jack of Diamonds</string>
+    <string name="diamondsQueen">Queen of Diamonds</string>
+    <string name="diamondsKing">King of Diamonds</string>
+    <string name="diamondsAce">Ace of Diamonds</string>
+
+    <string name="hearts2">2 of Hearts</string>
+    <string name="hearts3">3 of Hearts</string>
+    <string name="hearts4">4 of Hearts</string>
+    <string name="hearts5">5 of Hearts</string>
+    <string name="hearts6">6 of Hearts</string>
+    <string name="hearts7">7 of Hearts</string>
+    <string name="hearts8">8 of Hearts</string>
+    <string name="hearts9">9 of Hearts</string>
+    <string name="hearts10">10 of Hearts</string>
+    <string name="heartsJack">Jack of Hearts</string>
+    <string name="heartsQueen">Queen of Hearts</string>
+    <string name="hearts3King">King of Hearts</string>
+    <string name="heartsAce">Ace of Hearts</string>
+
+    <string name="spades2">2 of Spades</string>
+    <string name="spades3">3 of Spades</string>
+    <string name="spades4">4 of Spades</string>
+    <string name="spades5">5 of Spades</string>
+    <string name="spades6">6 of Spades</string>
+    <string name="spades7">7 of Spades</string>
+    <string name="spades8">8 of Spades</string>
+    <string name="spades9">9 of Spades</string>
+    <string name="spades10">10 of Spades</string>
+    <string name="spadesJack">Jack of Spades</string>
+    <string name="spadesQueen">Queen of Spades</string>
+    <string name="spadesKing">King of Spades</string>
+    <string name="spadesAce">Ace of Spades</string>
+
+    <string name="blackJoker">Black Joker</string>
+    <string name="redJoker">Red Joker</string>
+
+    //CARDS SIMPLE RULES
+    <string name="red2">Pick a partner!\nAnd give out 2 sips each!</string>
+    <string name="black2">Pick a partner!\nAnd drink 2 sips each!</string>
+    <string name="racistGet3">I\'m not racist but…\nTake 3 sips!</string>
+    <string name="red3">You may give out 3 sips!</string>
+    <string name="sexistGet3">I\'m not sexist but…\nTake 3 sips!</string>
+    <string name="black4">Touch the floor!\nLoser takes 4!</string>
+    <string name="whoresGet4">Four for whores!\nEvery girl drinks 4 sips each!</string>
+    <string name="whoresGive4">Four from whores!\nEvery girl can give out 4 sips each!</string>
+    <string name="black5">Point the sky!\nLoser takes 5!</string>
+    <string name="guysGet5">Five for guys!\nEvery boy takes  5 sips each!</string>
+    <string name="guysGive5">Five from guys!\nEvery boy can give out 5 sips each!</string>
+    <string name="black61">Guess what?\nYou may drink 6 sips!</string>
+    <string name="red61">You have been chosen!\nYou may give out 6 sips!</string>
+    <string name="red62">Guess what?\nYou may give out 6 sips!</string>
+    <string name="black62">Lucky you!\nYou need to take 6 sips!</string>
+    <string name="black7">Rock, Paper, Scissors!\nBest of 3!\nLoser takes 4/Winner gives 3!</string>
+    <string name="red7">Never have you ever?\n2 sips at stake!</string>
+    <string name="red8">Minigame!\nMake one up or choose from the list! (press here)</string>
+    <string name="black8">Minigame!\nMake one up or choose from the list! (press here)</string>
+    <string name="red9">Category!\n4 sips at stake!</string>
+    <string name="black9">Rhyme!\n4 sips at stake!</string>
+    <string name="c10SimpleRule">What is in your suitcase?\n5 sips at stake!</string>
+    <string name="s10SimpleRule">You got stuff in your suitcase!\n5 sips at stake!</string>
+    <string name="red10">Truth or dare?\nOr down your drink!</string>
+    <string name="jackSimpleRule">New Rule!\nInvent or choose a new rule from the list! (press here)</string>
+    <string name="queenOfBitches">👑 New Queen of Bitches! 👑\n4 sips to those who answer your questions!</string>
+    <string name="kingOfThumbs">👑 New King of thumbs! 👑\n2 sips for the loser!</string>
+    <string name="aceSimpleRule">Democracy!</string>
+    <string name="bJSimpleRule">Here\'s a special treat from me!\nEveryone downs their drink!</string>
+    <string name="rJSimpleRule">I didn\'t know which card to give \n😒\nSo choose your card!</string>
+
+    //CARDS DETAILED RULES
+    <string name="black2Detailed">Pick someone who has to drink every time you do and vice versa for the rest of the game!\n\nStart this partnership by drinking 2 sips each!\n\nAnother 2 sips each if either one of you drinks alone!</string>
+    <string name="red2Detailed">Pick someone who has to drink every time you do and vice versa for the rest of the game!\n\nStart this partnership by giving 2 sips each to anyone!\n\nDrink 2 sips if either one of you drinks alone!</string>
+    <string name="black3Detailed">*inhales*… DRINK 3 SIPS!</string>
+    <string name="black31Detailed">Yep… DRINK 3 SIPS!</string>
+    <string name="red3Detailed">You have a total of 3 sips to hand out!</string>
+    <string name="black4Detailed">Touch the floor with your hand as fast as you can!\n\nThe last one who copies must drink 4 sips!</string>
+    <string name="whoresTake4Detailed">Every girl in the room has to take 4 sips!</string>
+    <string name="whoresGive4Detailed">Every girl in the room can give out 4 sips!\nGive them out to whoever you want!\n\nIf you\'re wondering why you can only give out 4, it\'s because you\'re a whore.</string>
+    <string name="black5Detailed">Raise your hand.\n\nLast one to copy drinks 5 sips!</string>
+    <string name="guyTake5Detailed">Every boy in the room has to take 5 sips!\n\nIf you\'re wondering why you have to take five, it\'s because I haven\'t called you a whore.</string>
+    <string name="guyGive5Detailed">Every boy in the room can give out 5 sips!\nGive them out to whoever you want!</string>
+    <string name="black6Detailed">You\'re not dreaming… DRINK 6 SIPS!\n\nCrazy right?</string>
+    <string name="black61Detailed">You read it correctly… DRINK 6 SIPS!</string>
+    <string name="red6Detailed">You have a total of 6 sips to hand out!</string>
+    <string name="black7Detailed">Challenge any player to a Rock, Paper, Scissors game!\n\nBest of 3, the loser drinks 4 sips, the winner has 3 sips to hand out!</string>
+    <string name="red7Detailed">Say something you never did.\nThose who did (including yourself) must drink 2 sips.\n\neg:\n\'Never have I ever jumped off a plane.\'\nThose who jumped off a plane must drink.</string>
+    <string name="rulesDetailed8">\n</string>
+    <string name="black9Detailed">Choose a word.\nAround the room, everyone must find another word that rhymes.\n\nIf someone repeats or cannot find, he must drink 4 sips!\n\nNOTE:\nIf a rhyme was made or a word was used in a previous round, it cannot be used again.</string>
+    <string name="red9Detailed">Choose a category (car brands, animals, etc…).\nEveryone must then find a word that falls in your category.\n\nIf you repeat a word already said this round or any previous rounds, or cannot find another word, drink 4 sips!</string>
+    <string name="black10Detailed">One-by-one, add something to your suitcase (noun + adjective) starting by you.\n\neg:\nPlayer 1 says \'In my suitcase I have a green car\'.\nPlayer 2 then must say : \'In my suitcase I have a green car and a blue rabbit\'.\n\nThe game continues until someone forgets, says something incorrectly or in the wrong order. That person drinks 5 sips!</string>
+    <string name="red10Detailed">The other players can ask you a truth or a dare depending on your choice.\n\nDown your glass in case of refusal!</string>
+    <string name="jackDetailed">\n</string>
+    <string name="queenDetailed">Also known as Question Master.\n\nYou can ask questions at anytime, as much as you want. If someone replies, that person must drink 4 sips!\n\nYou have that power until another player draws a queen! 👑</string>
+    <string name="kingDetailed">You can place your thumb under your chin whenever you want, as much as you want.\n\nWhen you do, all the other players must do the same.\nThe last one who copies must drink 2 sips!\n\nYou have this power until another player draws a king! 👑</string>
+    <string name="aceDetailed">All at once say \'Democracy\' and point at anyone.\nDrink as many sips as there are people pointing at you.\n\neg: player 1, 2 and 3 points player 4.\nPlayer 4 points player 1.\nTherefore player 1 drinks 1 sip (1 player pointed at him),\nplayer 2 and 3 drinks 0 (no-one pointed at them),\nplayer 4 drinks 3 sips (3 players pointed at him).\n\nNOTE:\nEveryone needs to say democracy and designate someone at the same time.\nYou can designate whomever you want.</string>
+    <string name="bJDetailed">You read it correctly… EVERYONE MUST DOWN THEIR DRINK!\n\nSigned:\nThe Drinkler</string>
+    <string name="rJDetailed">Choose whatever you want, others will have to obey or drink! 😜</string>
+
+    //MINIGAMES!!
+    <string name="squirrelGame">The Squirrel Game</string>
+    <string name="pimpimGame" translatable="false">PIM-PIM</string>
+    <string name="clapGame">The Game Of Claps</string>
+    <string name="twentyPlusOneGame" translatable="false">20 + 1</string>
+
+    <string name="squirrelRules">TONGUE-TWISTER with 3 sips at stake!\n\nYou are now called \'1 Squirrel\', \'2 Squirrel\', etc…\nYour names stay the same throughout the whole of the Squirrel Game.\n\nSimply call each other using your new names, separated by \'a sixth of squirrel\':\nPlayer 1:\'1 squirrel, a sixth of squirrel, 3 squirrel\'\nPlayer 3:\'3 squirrel, a sixth of squirrel, 2 squirrel\'\nPlayer 2:\'2 squirrel, etc…\n\n</string>
+    <string name="squirrelExample">Say it as clear and as quickly as possible.\nStutter, be unclear or be too slow and you\'re out (drink)!\n\n</string>
+    <string name="squirrelNote">The game ends when there are 3 players left.</string>
+    <string name="pimRules">Choose an object (an empty plastic bottle, keys, etc…) and call it PIM-PIM.\n\n</string>
+    <string name="pimExample">Here\'s how the game goes:\nPlayer 1: (Throwing PIM-PIM to player 2) Here, it\'s PIM-PIM\nPlayer 2: (Receiving PIM-PIM) What is it?\nPlayer 1: It\'s PIM-PIM\nPlayer 2: (throwing PIM-PIM to player 3) Here, it\'s PIM-PIM\nPlayer 3: (Receiving PIM-PIM) What is it?\nPlayer 2: (Asking player 1) What is it?\nPlayer 1: (To player 2) It\'s PIM-PIM\nPlayer 2: (To player 3) It\'s PIM-PIM\nPlayer 3: (Throwing PIM-PIM) etc…\n\n</string>
+    <string name="pimNote">NOTE:\nYou may pass PIM-PIM to whoever you want.\n\nState the wrong sentence, ask the wrong person or speak when you shouldn\'t.... Drink 3 and leave!\n\nThe game ends when there are 2 players left.\n</string>
+    <string name="clapRules">Clap one after the other, clockwise, as fast as possible.\nOne clap, same way.\nTwo claps, reverse!\n\nClap more than twice, when it\'s not your turn or take too long, drink 3 and leave the game.\n\n</string>
+    <string name="clapExample">eg: In a game of 3 players:\nPlayer 1 starts.\nPlayer 1: Clap\nPlayer 2: Clap\nPlayer 3: Clap Clap (changes order)\nPlayer 2: Clap \netc…\n\n</string>
+    <string name="clapNote">The game ends when there are 2 players left.</string>
+    <string name="twentyRules">\n\n\n\nCOACHING IS DRINKING:\n\nWHOEVER READS PAST THIS LINE OR EXPLAINS THE RULES HAS TO DOWN HIS DRINK!!\n\n\n\n\n\n\n\n5 rounds.\nStart by saying: \'I propose a game of 20+1, starting on my [right or left] with [either \'1\', \'1, 2\' or \'1, 2, 3\'].\n\nOne by one, count up to 21.\nYou are allowed to say up to 3 numbers at the time.\n1 number, continue as normal,\n2 numbers reverse,\n3 numbers skip the next player.\n\nIf you happen to be the one saying the number 21 or an equivalent, finish your glass and add a rule!\n\nYou are not allowed to say the number 21.\nYou are not allowed to repeat 2 numbers twice in a row\neg:\nPlayer A: \'1, 2\'\nPlayer B can either say \'3\' or \'3, 4, 5\' but not \'3, 4\'.\n\nSpeak when it\'s not your turn, forget (or repeat) a number or break any of the above rules and you drink!\n</string>
+    <string name="twentyNote">The round then ends and starts again from the person on your left.</string>
+
+    //RULES!!
+    <string name="fps">FPS</string>
+    <string name="buffalo">Buffalo</string>
+    <string name="chicken">Chicken</string>
+    <string name="drinkorilla" translatable="false">Drinkorilla</string>
+    <string name="orderName">Order 15–32</string>
+    <string name="international">International Drinking Rules</string>
+    <string name="drinklerName">The Drinkler\'s Rules</string>
+
+    <string name="fpsRules">Whenever you shout \'FPS\' everyone needs to get into the Fetal Position of Security.\n\nThe last one to be in this position has to drink!</string>
+    <string name="buffaloRules">When you drink, use your weak hand or drink one more.</string>
+    <string name="chickenRules">Finish each of your sentences with the word \'Chicken\'. \nIf you don\'t, drink a sip!</string>
+    <string name="drinkorillaRules">Bang your chest twice every time after you drink.\nIf you don\'t, you must drink what you just drank once more!\n\n</string>
+    <string name="drinkorillaExample">eg:\nIf you just downed your drink but forgot to Drinkorilla, you must down another.</string>
+    <string name="orderRule">At anytime, anyone can order another player to take 3 sips by saying: \'Order 15–32 [name of the victim] drink!\'\n\nOnce the 3 sips were taken, that player needs to give a valid reason agreed by everyone else and/or the victim, or top up his glass and down it.\n\n</string>
+    <string name="orderNote">Order 15–32 means \'I know what I\'m doing, obey, I\'ll explain later.\'"</string>
+    <string name="internationalRules">- No saying the word \'drink\'!\n- No saying any other player\'s first name, or whatever they are usually called by!\n- No fucking swearing!\n- Don\'t you dare point with an extended finger!\n- Like a damn lady, put your pinkie out while drinking!\n- Drink with your weak hand!\n- Keep your drink at least a thumb\'s length from the edge of the table!\n- An empty glass cannot be put down: it must be refilled before!\n- Spillage is lickage: if you spill a drink, you must suck it up on the surface where it was spilled with your mouth immediately!\n\nA disobedience of any of these rules will result with a 2 sip penalty!</string>
+    <string name="drinklerRules">Apply of all the following rules:\n- FPS\n- Drinkorilla\n- Order 15–32\n- International Drinking Rules\n\nBut with 4 sips as punishment!</string>
+
+    //Drink Menu
+    <string name="tonic">- Tonic Water</string>
+    <string name="lemonade">- Lemonade</string>
+    <string name="orange">- Orange Juice (Sweet)</string>
+    <string name="mango">- Mango Juice (Sweet)</string>
+    <string name="pineapple">- Pineapple Juice (Sweet)</string>
+    <string name="apple">- Apple Juice (Sweet)</string>
+    <string name="cranberry">- Cranberry Juice (Bitter)</string>
+    <string name="grapefruit">- Grapefruit Juice (Bitter)</string>
+    <string name="ginger">- Ginger Beer (Spicy)</string>
+    <string name="soda">- Soda Water</string>
+    <string name="multi">- Multi Fruit Juices (Sweet or Bitter)</string>
+    <string name="straight">- Straight</string>
+    <string name="cola">- Cola</string>
+    <string name="coconutWater">- Coconut Water</string>
+    <string name="energy">- Energy Drinks</string>
+    <string name="salt">- Salt &amp; Lime</string>
+    <string name="water">- Water</string>
+
+    <string name="tonicS">Tonic Water</string>
+    <string name="lemonadeS">Lemonade</string>
+    <string name="orangeS">Orange Juice</string>
+    <string name="mangoS">Mango Juice</string>
+    <string name="pineappleS">Pineapple Juice</string>
+    <string name="appleS">Apple Juice</string>
+    <string name="cranberryS">Cranberry Juice</string>
+    <string name="grapefruitS">Grapefruit Juice</string>
+    <string name="gingerS">Ginger Beer</string>
+    <string name="sodaS">Soda Water</string>
+    <string name="multiS">Multi Fruit Juices</string>
+    <string name="straightS">Straight</string>
+    <string name="colaS">Cola</string>
+    <string name="coconutWaterS">Coconut Water</string>
+    <string name="energyS">Energy Drinks</string>
+    <string name="saltS">Salt &amp; Lime</string>
+    <string name="waterS">Water</string>
+
+    <string name="juices">Juices</string>
+    <string name="sodas">Sodas</string>
+    <string name="others">Others</string>
+
+    <string name="gin" translatable="false">Gin</string>
+    <string name="flavouredGin">Flavoured Gin</string>
+    <string name="whiteRum">White Rum</string>
+    <string name="spicedRum">Spiced Rum</string>
+    <string name="darkRum">Dark Rum</string>
+    <string name="vodka" translatable="false">Vodka</string>
+    <string name="vodkaVanilla">Vodka Vanilla</string>
+    <string name="scotch" translatable="false">Scotch</string>
+    <string name="bourbon" translatable="false">Bourbon</string>
+    <string name="otherWhiskey">Other Whiskeys</string>
+    <string name="liqueurs">Liqueurs</string>
+    <string name="Amaretto">Amaretto</string>
+    <string name="schnapps">Peach Schnapps</string>
+    <string name="cocoRum">Coconut Rum</string>
+    <string name="cognac">Cognac</string>
+    <string name="tequila" translatable="false">Tequila</string>
+    <string name="jager" translatable="false">Jägermeister</string>
+
+    <string name="rum">Rum</string>
+    <string name="whiskey">Whiskey</string>
+    <string name="other">Other</string>
+
+</resources>
